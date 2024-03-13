@@ -1,1 +1,1 @@
-<a href="file:///F:/javascript-exercises/chapter1.pdf">ALERTS EXERCISES PDF</a>
+<a href="/javascript-exercises/chapter1.pdf">ALERTS EXERCISES PDF</a>
