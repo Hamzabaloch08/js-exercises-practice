@@ -9,3 +9,7 @@ alert("Certified Mobile Application Development")
 
 var  lineBreak = "\n";
 alert("pizza" + lineBreak + "pizz" + lineBreak + "piz" + lineBreak + "pi" + lineBreak + "p")
+
+var email = "hb0485509@gmail.com";
+alert("My email address is " + email)
+
