@@ -33,3 +33,6 @@ document.write(
 
 var symbol = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 alert(symbol);
+
+//end
+
